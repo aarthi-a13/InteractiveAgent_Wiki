@@ -52,7 +52,7 @@ pip install -r requirements.txt
 1. Create free account and setup Postgresql service
 2. The DB usrl must be in the below format to be replaced in playground.py
 ```bash
-postgresql+psycopg://<PGUSER>:<PGPASSWORD>@<PGHOST>:<PGHOST>/<PGHOST>
+postgresql+psycopg://<PGUSER>:<PGPASSWORD>@<PGHOST>:<PGPORT>/<PGDATABASE>
 ```
 
 ## 🔐 Authentication
