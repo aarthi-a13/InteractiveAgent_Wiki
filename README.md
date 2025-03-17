@@ -83,5 +83,5 @@ ThinkGen/
 
 <div align="center" style="margin-top: 20px;">
   <hr style="border: 1px solid #eee;">
-  <p>Made with Intelligence 🧠 by Agent Ninjas</p>
+  <p>Made with Intelligence 🧠 by Agent Ninjas🥷</p>
 </div>
