@@ -21,8 +21,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/aarthi-a13/ThinkGen.git
-cd ThinkGen
+git clone https://github.com/aarthi-a13/InteractiveAgent_Wiki.git
+cd InteractiveAgent_Wiki
 
 # Create & activate virtual environment
 python -m venv myenv
